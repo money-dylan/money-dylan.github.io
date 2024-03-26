@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div id = "screen">
+            <img src="Img/scanlines.png" id="scan">
+            <img src="Img/bezel.png" id="outline">
+            <div id = "content">
+                <div id = "Header">
+                    <u>Dylan Money</u>
+                </div>
+                <div id = "Links">
+                    <a href="">Projects</a> <a href="">Documents</a> <a href="">Contact</a>
+                </div>
+                </br>
+                </br>
+                <div id="Text">
+                    Hi, my name is Dylan Money. I am a student at UCF studying</br> 
+                    Computer Science. I enjoy playing Video Games, creating</br> 
+                    things and learning new skills.
+                </div>
+                <div id="Image">
+                    <img src="Img/ImageOnline.jpg" alt="old school space ship and astronauts" width="30%" height="30%" align="right" >
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
