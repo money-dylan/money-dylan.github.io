@@ -28,6 +28,10 @@
   font-size: 200%;
 }
 
+#Text{
+  font-size: 150%;
+}
+
 #scan, #outline {
   position: absolute;
   width: 100%;
